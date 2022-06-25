@@ -1,0 +1,14 @@
+{
+	"type": "code",
+	"name": "DodgeRoll",
+	"modid": "dodgeroll",
+	"version": "0.0.1",
+
+	"description": "Adds the capability to dodge in combat.",
+	"website": "https://github.com/SamoMedo/DodgeRoll",
+	"authors": [ "SamoMedo" ],
+
+	"dependencies": {
+		"game": "1.16.5"
+	}
+}
